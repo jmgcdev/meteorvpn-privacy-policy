@@ -1,6 +1,6 @@
-Privacy Policy for Quick Hub VPN:
+Privacy Policy for Meteor VPN:
 
-At Quick Hub VPN, we are committed to protecting the privacy and security of our users. This privacy policy explains how we protect your privacy and handle your personal information when you use our VPN app.
+At Meteor VPN, we are committed to protecting the privacy and security of our users. This privacy policy explains how we protect your privacy and handle your personal information when you use our VPN app.
 
 Information We Collect:
 We do not collect any personal information, including your email address, name, or payment information. We also do not collect any usage information, such as your IP address, browsing history, or online activities.
